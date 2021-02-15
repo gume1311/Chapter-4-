@@ -54,4 +54,22 @@ int main() {
 return(0);
 }
 ```
-#### If we wanted to change the data, we just have to run the program again and put the new data
+#### If we wanted to change the data, you just have to run the program again and put the new information
+
+### Exercise 4-4: Write a program to print "HELLO" in big block letters; each letter should have a height of seven characters and width of five characters.
+ 
+ ```c
+ #include <stdio.h>
+
+int main() {
+	printf("H   H EEEEE L     L      OOO\n");
+	printf("H   H E     L     L     O   O\n");
+	printf("H   H E     L     L     O   O\n");
+	printf("HHHHH EEEEE L     L     O   O\n");
+	printf("H   H E     L     L     O   O\n");
+	printf("H   H E     L     L     O   O\n");
+	printf("H   H EEEEE LLLLL LLLLL  OOO\n");
+
+	return(0);
+}
+```
