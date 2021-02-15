@@ -54,3 +54,4 @@ int main() {
 return(0);
 }
 ```
+#### If we wanted to change the data, we just have to run the program again and put the new data
