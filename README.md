@@ -5,7 +5,7 @@
  int main()  
   {
      printf("Name   : Alfonso Gumesindo Jimenez Valdes\n"); 
-     printf("DOB    : October 13, 2002\n"); 
-     printf("SN : 25170227349\n"); 
+     printf("date of birth    : October 13, 2002\n"); 
+     printf("SSN : 25170227349\n"); 
      return(0); 
   }
