@@ -12,5 +12,6 @@ date of birth.
      printf("SSN : 25170227349\n"); 
      return(0); 
   }
+  ```c
 ### Exercise 4-2: Write a program to print a block E using asterisks (*), where the E
 has a height of seven characters and a width of five characters.
