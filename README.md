@@ -14,3 +14,19 @@
   }
   ```
  ### Exercise 4-2: Write a program to print a block E using asterisks (*), where the Ehas a height of seven characters and a width of five characters.
+ 
+ ```c
+ #include <stdio.h> 
+ int main() 
+ {
+	printf("*****\n");
+	printf("*\n");
+	printf("*\n");
+	printf("*****\n");
+	printf("*\n");
+	printf("*\n");
+	printf("*****\n");
+
+	return(0);
+}
+ ```
