@@ -73,3 +73,23 @@ int main() {
 	return(0);
 }
 ```
+
+ ```c
+#include <stdio.h>
+
+float floatnum;    
+int intnum;         
+char character;     
+
+int main() {
+	floatnum = 1.0;
+	intnum = 1;
+	character = 'A';
+
+	printf("%f as %%d: %d\n", floatnum, floatnum);
+	printf("%d as %%f: %f\n", intnum, intnum);
+	printf("%c as %%d: %d\n", character, character);
+
+	return(0);
+}
+```
